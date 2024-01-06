@@ -5,7 +5,7 @@
        🔭 I'm currently working on building my skills!
        🌱 I’m currently learning web development technologies like JavaScript, React etc.
        🤔 Looking for help with an opportunity in Web Development.
-       📫 How to reach me at: 𝐦𝐞𝐠𝐡𝐚𝐛𝐚𝐭𝐡𝐥𝐚@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦.
+       📫 How to reach me at: 𝐛𝐚𝐭𝐡𝐥𝐚𝐦𝐞𝐠𝐡𝐚𝟔@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
        💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
        😄 Pronouns: She/Her.
        ⚡ Fun fact: I love journaling.
