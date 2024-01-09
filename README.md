@@ -1,9 +1,8 @@
 # Hi there! I'm Megha Bathla.
-   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!--<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 
 ## 💫 About Me:
-       🔭 I'm currently working on building my skills!
-       🌱 I’m currently learning web development technologies like JavaScript, React etc.
+       🔭 I'm currently working on building my skills in development technologies like JavaScript, React etc.
        🤔 Looking for help with an opportunity in Web Development.
        📫 How to reach me at: 𝐛𝐚𝐭𝐡𝐥𝐚𝐦𝐞𝐠𝐡𝐚𝟔@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
        💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
